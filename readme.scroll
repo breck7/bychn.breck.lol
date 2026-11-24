@@ -1,6 +1,6 @@
 title Bye YCombinator HackerNews
 description Export all your HackerNews data as a single beautiful scroll file
-baseUrl https://knowbooks.com/s/bychn/
+baseUrl https://bychn.breck.lol/
 openGraphImage og.png
 favicon favicon.svg
 permalink index.html
@@ -12,7 +12,7 @@ header
  a Knowbooks
   href ../index.html
  a Source ↗
-  href https://github.com/breck7/knowbooks.com/tree/main/s/bychn
+  href https://github.com/breck7/bychn.breck.lol/tree/main/
 
 html
  <main>
@@ -64,7 +64,7 @@ html
 footer
  span Free software ·
  a Page source
-  href https://github.com/breck7/knowbooks.com/tree/main/s/bychn
+  href https://github.com/breck7/bychn.breck.lol/tree/main/
 
 html
  <script src="bychn.js"></script>
